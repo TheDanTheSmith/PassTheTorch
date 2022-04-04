@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 193f0ea7a5dd1c44fabec7cf53097999, type: 3}
+  m_Name: Baby
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: -1369773720, guid: acd919e5abf4f974a98b43ac57f48871, type: 3}
+  - {fileID: 1282614891, guid: acd919e5abf4f974a98b43ac57f48871, type: 3}
+  - {fileID: -806727589, guid: acd919e5abf4f974a98b43ac57f48871, type: 3}
+  - {fileID: 1743260967, guid: acd919e5abf4f974a98b43ac57f48871, type: 3}
+  - {fileID: 620915875, guid: acd919e5abf4f974a98b43ac57f48871, type: 3}
+  - {fileID: 1425455674, guid: acd919e5abf4f974a98b43ac57f48871, type: 3}
+  - {fileID: -673772817, guid: acd919e5abf4f974a98b43ac57f48871, type: 3}
+  - {fileID: 1366698322, guid: acd919e5abf4f974a98b43ac57f48871, type: 3}
+  - {fileID: -1838481239, guid: acd919e5abf4f974a98b43ac57f48871, type: 3}
+  - {fileID: 618317435, guid: acd919e5abf4f974a98b43ac57f48871, type: 3}
+  - {fileID: -1211224824, guid: acd919e5abf4f974a98b43ac57f48871, type: 3}
+  - {fileID: -677237629, guid: acd919e5abf4f974a98b43ac57f48871, type: 3}
+  - {fileID: -907989590, guid: acd919e5abf4f974a98b43ac57f48871, type: 3}
+  fps: 5
